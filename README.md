@@ -1,1 +1,1 @@
-My linear regression algorithm
+My Linear Regression Algorithm
